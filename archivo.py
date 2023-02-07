@@ -5,3 +5,6 @@ b = 45
 print(a - b)
 if a - b < 34:
     print(a-n)
+
+hola = "cada da"
+print(hola)
