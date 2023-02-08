@@ -6,3 +6,7 @@ if a > 1:
     print("Hola mundo")
 hola = 1
 print("HOla")
+
+l = 90
+p = 87
+print("l - p")
